@@ -32,15 +32,15 @@ Code: polarity_v1.ipynb
 
 Input files:
 
-wormweb_synapselist.csv
-lgc_ligands_git.xlsx
-connectome.xlsx
-NT_list.csv
+- wormweb_synapselist.csv
+- lgc_ligands_git.xlsx
+- connectome.xlsx
+- NT_list.csv
 
 made during analysis:
 
-wormweb_connectome_classes_gap_correct.csv
-wormweb_connectome_classes_correct.csv
+- wormweb_connectome_classes_gap_correct.csv
+- wormweb_connectome_classes_correct.csv
 
 Data origin:
 
