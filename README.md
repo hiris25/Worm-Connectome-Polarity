@@ -4,7 +4,7 @@ Code related to the following manuscript:
 
 A Novel and Functionally Diverse Class of Acetylcholine-gated Ion Channels
 
-Iris Hardege, Julia Morud, William R Schafer
+Iris Hardege, Julia Morud, Amy Courtney, William R Schafer
 
 doi: https://doi.org/10.1101/2021.10.06.463318
 
